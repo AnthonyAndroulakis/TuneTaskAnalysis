@@ -19,7 +19,7 @@ a simple script/method for automating the sung-melody-assessment code
 TuneTask folder contains a Perception folder and a Repetition folder .     
 Within both the Perception and Repetition folders are folders for participants
 For the Perception folder, there is a csv file within each participant folder (csv file created by https://github.com/AnthonyAndroulakis/TuneTaskApps/tree/master/MelodicPerceptionTask) (tunes 1-54)       
-For the Repetition folder, there are .wav files of the participant humming each tune (.wav files created by https://github.com/AnthonyAndroulakis/TuneTaskApps/tree/master/MelodicRepetitionTask) (tunes 55-114)      
+For the Repetition folder, there are .wav files of the participant humming each tune (.wav files created by https://github.com/AnthonyAndroulakis/TuneTaskApps/tree/master/MelodyRepetitionTask) (tunes 55-114)      
 
 ## How to run:
 `python3 analyses.py`       
