@@ -5,13 +5,13 @@ a simple script/method for automating the sung-melody-assessment code
 1) `git clone https://github.com/AnthonyAndroulakis/TuneTaskAnalysis.git`
 2) `cd TuneTaskAnalysis` #go into TuneTaskAnalysis directory
 3) install dependencies:
-    i) git (https://git-scm.com/downloads)
-    ii) ffmpeg (https://www.ffmpeg.org/download.html)
-    iii) python3 (https://www.python.org/downloads/)
-    iv) praat-parselmouth (pip3 install praat-parselmouth)
-    v) numpy (pip3 install numpy)
-    vi) scipy (pip3 install scipy)
-    vii) more_itertools (pip3 install more_itertools)
+i) git (https://git-scm.com/downloads)
+ii) ffmpeg (https://www.ffmpeg.org/download.html)
+iii) python3 (https://www.python.org/downloads/)
+iv) praat-parselmouth (pip3 install praat-parselmouth)
+v) numpy (pip3 install numpy)
+vi) scipy (pip3 install scipy)
+vii) more_itertools (pip3 install more_itertools)
 4) `git clone https://github.com/AnthonyAndroulakis/SungMelodyAssessment.git` #needed for assessment algorithms
 5) `git clone https://github.com/AnthonyAndroulakis/TuneTaskApps.git` #needed for original tune files
 
