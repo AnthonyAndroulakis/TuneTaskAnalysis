@@ -12,8 +12,8 @@ a simple script/method for automating the sung-melody-assessment code
     v) numpy (pip3 install numpy)
     vi) scipy (pip3 install scipy)
     vii) more_itertools (pip3 install more_itertools)
-4) `git clone https://github.com/AnthonyAndroulakis/SungMelodyAssessment.git`
-5) `git clone https://github.com/AnthonyAndroulakis/TuneTaskApps.git`
+4) `git clone https://github.com/AnthonyAndroulakis/SungMelodyAssessment.git` #needed for assessment algorithms
+5) `git clone https://github.com/AnthonyAndroulakis/TuneTaskApps.git` #needed for original tune files
 
 ## input
 TuneTask folder contains a Perception folder and a Repetition folder .     
